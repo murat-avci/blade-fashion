@@ -1,0 +1,24 @@
+// .lang {
+
+// }
+
+.lang__title {
+  @include textFont(16,19,600,$basic-white);
+  letter-spacing: -0.02em;
+  font-family: $lato;
+  text-transform: uppercase;
+  opacity: 0.64;
+  background-color: transparent;
+}
+
+// .lang__list {
+
+// }
+
+// .visually-hidden {
+
+// }
+
+// .lang__item {
+
+// }
